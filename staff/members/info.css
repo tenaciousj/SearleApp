@@ -3,7 +3,7 @@
 	margin:-2px -2px 0px -2px;
 }
 .navbar-default .navbar-text {
-	font-size: 450%;
+	font-size: 350%;
 	font-family: "Trebuchet MS";
 	font-weight: 500;
 	color:white;
@@ -20,6 +20,16 @@
 
 #bb{
 	width: 25%;
+	font-size: 80%;
+}
+
+.bg-info{
+	font-size:300%;
+	background-color: rgb(227,185,251);
+}
+
+li {
+	font-size: 200%;
 }
 #back_button{
 
@@ -91,5 +101,5 @@ button:active {
 }
 
 .marg {
-	margin-top:100px;
+	margin-top:5%;
 }
