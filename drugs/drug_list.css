@@ -104,7 +104,8 @@ button:active {
 .button-text {
 	
 	width: 100%;
-	text-align: center;
+	text-align: left;
+	padding-left: 30px;
 	
 }
 
