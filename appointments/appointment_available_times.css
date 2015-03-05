@@ -1,0 +1,93 @@
+.navbar {
+	background-color:#4F2E8A;
+	margin:-2px -2px 0px -2px;
+}
+.navbar-default .navbar-text {
+	font-size: 450%;
+	font-family: "Trebuchet MS";
+	font-weight: 500;
+	color:white;
+	
+}
+.navbar-default{
+
+}
+#hh{
+	width:75%;
+}
+#hh p{
+
+	
+	padding-left: 10%;
+}
+#bb{
+	width: 25%;
+}
+#back_button{
+
+	margin-top: 10px;
+	background-color:#4F2E8A;
+	width:90%;
+	height:100%;
+	border-radius: 10px;
+	border-color: transparent;
+	font-size: 450%;
+	font-family: "Trebuchet MS";
+	font-weight: 500;
+	color:white;
+	float: left;
+}
+
+
+.container {
+	background-size: 75% 75%;
+	background-position: center;
+}
+
+
+button {
+	background-color:lightgray;
+	border-radius: 30px;
+	width:700px;
+	height:200px;
+	border-color:gray;
+	font-size: 600%;
+	font-family: "Trebuchet MS";
+	font-weight: 500;
+	text-align: left;
+	color: black;
+}
+
+.myLabel {
+	background-color:white;
+	width: 700px;
+	height: 200px;
+	font-size: 330%;
+	font-family: "Trebuchet MS";
+	font-weight: 900;
+	text-align: left;
+	border-color: transparent;
+}
+
+.button-text {
+	float: left;
+	width: 50%;
+	text-align: left;
+	padding-left: 30px;
+}
+
+.button-arrow {
+	width: 40%;
+	float: right;
+	text-align: right;
+	padding-right: 30px;
+}
+
+button:active {
+	opacity: 0.9;
+	background-color: white;
+}
+
+.marg {
+	margin-top:200px;
+}

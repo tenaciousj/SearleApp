@@ -1,0 +1,130 @@
+.navbar {
+	background-color:#4F2E8A;
+	margin:-2px -2px 0px -2px;
+}
+.navbar-default .navbar-text {
+	font-size: 450%;
+	font-family: "Trebuchet MS";
+	font-weight: 500;
+	color:white;
+	
+}
+.navbar-default{
+
+}
+#hh{
+	width:75%;
+}
+#hh p{
+
+	
+	padding-left: 10%;
+}
+#bb{
+	width: 25%;
+}
+#back_button{
+
+	margin-top: 10px;
+	background-color:#4F2E8A;
+	width:90%;
+	height:100%;
+	border-radius: 10px;
+	border-color: transparent;
+	font-size: 450%;
+	font-family: "Trebuchet MS";
+	font-weight: 500;
+	color:white;
+	float: left;
+}
+
+
+.container {
+	/*
+	background-image: url(https://www.athletico.com/wp-content/uploads/2012/09/N_purple.png);
+	*/
+	background-size: 75% 75%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.mybtn {
+	border-width: 3px;
+	border-style: solid;
+	border-color:black;
+	font-size: 425%;
+	font-family: "Trebuchet MS";
+	font-weight: 900;
+	background-color:white;
+	width:200px;
+	height:200px;
+	border-radius: 10px;
+}
+
+.mybtngray {
+	border-width: 3px;
+	border-style: solid;
+	border-color:black;
+	font-size: 400%;
+	font-family: "Trebuchet MS";
+	font-weight: 700;
+	background-color:lightgray;
+	width:200px;
+	height:150px;
+	border-radius: 10px;
+	display: inline-block;
+}
+.mybtngray:active {
+	background-color: white;
+}
+
+
+button {
+	background-color:white;
+	width:200px;
+	height:200px;
+	border-radius: 10px;
+	
+
+}
+
+
+
+
+button:active {
+	opacity: 0.9;
+}
+
+.marg {
+	margin-top:100px;
+}
+
+.button-text {
+	
+}
+
+.button-arrow {
+	width: 40%;
+	float: right;
+
+}
+.drug_title{
+	font-size: 400%;
+	font-family: "Trebuchet MS";
+	font-weight: 700;
+	color:black;
+
+}
+.drug_text{
+	font-size: 200%;
+	font-family: "Trebuchet MS";
+	font-weight: 200;
+	color:black;
+}
+.down{
+	margin-top: 300px;
+	
+}
+
+
+
