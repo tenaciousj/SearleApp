@@ -62,13 +62,14 @@
 	border-width: 3px;
 	border-style: solid;
 	border-color:black;
-	font-size: 425%;
+	font-size: 415%;
 	font-family: "Trebuchet MS";
 	font-weight: 900;
 	background-color:lightgray;
 	width:200px;
 	height:200px;
 	border-radius: 10px;
+	text-align: left;
 }
 
 

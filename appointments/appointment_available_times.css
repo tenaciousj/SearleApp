@@ -17,7 +17,6 @@
 }
 #hh p{
 
-	
 	padding-left: 10%;
 }
 #bb{
@@ -47,7 +46,6 @@
 
 button {
 	background-color:lightgray;
-	border-radius: 30px;
 	width:700px;
 	height:200px;
 	border-color:gray;
@@ -56,6 +54,9 @@ button {
 	font-weight: 500;
 	text-align: left;
 	color: black;
+	border-width: 3px;
+	border-style: solid;
+	border-color:black;
 }
 
 .myLabel {
