@@ -7,20 +7,17 @@
 	font-family: "Trebuchet MS";
 	font-weight: 500;
 	color:white;
+	text-align:center;
 
 }
-.navbar-default{
 
-}
 #hh{
 	width:75%;
 }
 #hh p{
-
-	
-padding-left: 2.5%;
-
+	padding-left: 2.5%;
 }
+
 #bb{
 	width: 25%;
 }
